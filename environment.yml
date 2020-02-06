@@ -3,6 +3,10 @@ channels:
   - conda-forge
 dependencies:
   - numpy
+  - scipy
   - matplotlib
   - pandas
   - ipywidgets
+  - pythreejs
+  - wordcloud
+  - rise
